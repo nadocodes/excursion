@@ -10,7 +10,7 @@ body {
 }
 
 header, footer {
-    margin: 2rem;
+    margin: 2rem 0;
 }
 
 h1 {
@@ -34,4 +34,8 @@ a {
 p {
     font-size: 21px;
     color: gray;
+}
+
+.copyright {
+    text-align: right;
 }
