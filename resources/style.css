@@ -39,3 +39,9 @@ p {
 .copyright {
     text-align: right;
 }
+
+.mission picture {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
